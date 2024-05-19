@@ -40,12 +40,12 @@
                             Seputar Hukum Adat
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="/sha?t=1#pengertian">Pengertian</a></li>
-                            <li><a class="dropdown-item" href="/sha?t=2#proses-lahir">Proses Lahirnya</a></li>
-                            <li><a class="dropdown-item" href="/sha?t=3#sifat-dan-corak">Sifat dan Corak</a></li>
-                            <li><a class="dropdown-item" href="/sha?t=4#masyarakat">Masyarakat</a></li>
-                            <li><a class="dropdown-item" href="/sha?t=5#landasan-hukum">Landasan Hukum</a></li>
-                            <li><a class="dropdown-item" href="/sha?t=6#manfaat">Maanfaat</a></li>
+                            <li><a class="dropdown-item" href="/sha#pengertian">Pengertian</a></li>
+                            <li><a class="dropdown-item" href="/sha#proses-lahir">Proses Lahirnya</a></li>
+                            <li><a class="dropdown-item" href="/sha#sifat-dan-corak">Sifat dan Corak</a></li>
+                            <li><a class="dropdown-item" href="/sha#masyarakat">Masyarakat</a></li>
+                            <li><a class="dropdown-item" href="/sha#landasan-hukum">Landasan Hukum</a></li>
+                            <li><a class="dropdown-item" href="/sha#manfaat">Maanfaat</a></li>
                         </ul>
                     </li>
                     <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="/peta">Peta</a></li>

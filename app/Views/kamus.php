@@ -10,7 +10,7 @@
         </div>
     </div>
 </header>
-<!-- Page Content -->
+<!-- Konten -->
 <div class="container">
     <div class="row justify-content-center">
         <div class="col">

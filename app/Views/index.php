@@ -6,7 +6,7 @@
                 <div class="site-heading">
                     <h1>ENSHI</h1>
                     <span class="subheading">Elektronik Ensiklopedia Sistem Hukum Adat Indonesia</span>
-                    <form action="/#result" method="post">
+                    <form action="/" method="post">
                         <div class="input-group my-3">
                             <input type="text" name="c" class="form-control" placeholder="Cari istilah disini..." aria-label="Cari istilah disini..." aria-describedby="cari" required>
                             <div class="input-group-append">
@@ -21,7 +21,7 @@
 </header>
 <?php if (isset($_POST['cari'])) : ?>
     <!-- Main Content-->
-    <div class="container px-4 px-lg-5" id="result">
+    <div class="container px-4 px-lg-5">
         <div class="row gx-4 gx-lg-5 justify-content-center">
             <div class="col-md-10 col-lg-8 col-xl-7">
                 <p>Hasil penelusuran dari: <?= $_POST['c']; ?></p>

@@ -34,7 +34,6 @@ $routes->post('/', 'User::index');
 $routes->get('/kamus', 'User::kamus');
 $routes->get('/sha', 'User::sha');
 $routes->get('/peta', 'User::peta');
-$routes->get('/#result', 'User::index');
 
 /*
  * --------------------------------------------------------------------
